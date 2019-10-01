@@ -2,9 +2,9 @@
 title: About Course in a Box
 ---
 
-# Course in a Box
+# Educação a Distância
 
-Course in a Box consist of 
+Essa página é um teste da utilização do "course-in-a-box" do P2PU
 
  - a tutorial module to guide you through the technical steps for creating your course.
  - a resource module to help you design content, activities, community and feedback for your course.
